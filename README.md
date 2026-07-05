@@ -28,8 +28,8 @@
 需要 Python 3.8+。
 
 ```bash
-git clone https://github.com/xiaobaiNINiZ/quannengwang-watermark-remover.git
-cd quannengwang-watermark-remover
+git clone https://github.com/xiaobaiNINiZ/Qushuiyin.git
+cd Qushuiyin
 pip install -r requirements.txt
 python main.py
 ```
